@@ -14,7 +14,7 @@ de forma Pythonica
 [2] - Utilize nomes em minúsculo, serparados por underline
 para funções ou variáveis;
 
-"""
+
 import this
 
 class calculadora:
@@ -29,3 +29,35 @@ def soma_dois():
 
 numero = 4
 numero_impar = 5
+
+[3] - Utilize  4 espaços para identação!
+
+
+if 'a' in 'banana':
+  print('Tem')
+
+[4] - Linhas em branco
+
+Separar funções e definições de classe com duas linhas em branco;
+metodos dentro de uma classe devem ser serapados com uma unica linha em branco;
+
+
+
+[5] - Imports devem ser sempre feitos em linhas separadas;
+
+#Importa errado
+
+import sys, os
+
+# Import certo.
+
+import sys
+import os
+
+# Não há problemas em utilizar:
+
+from types import StringType, ListType
+
+
+"""
+
