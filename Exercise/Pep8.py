@@ -14,7 +14,6 @@ de forma Pythonica
 [2] - Utilize nomes em minúsculo, serparados por underline
 para funções ou variáveis;
 
-
 import this
 
 class calculadora:
@@ -60,4 +59,3 @@ from types import StringType, ListType
 
 
 """
-
