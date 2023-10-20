@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "calculadora",
+        "calculadoracientifica",
+        "códigos",
+        "escerver",
+        "ideia",
+        "linguagem",
+        "melhorias",
+        "nomes",
+        "possamos",
+        "Propostas",
+        "Pythonica"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+}
