@@ -2,7 +2,6 @@
 # Leia um número real e imprima o quadrado desse número.
 '''
 import os
-import math
 
 num = float(input('Informe um número: \n'))
 qdnum = num ** 2
